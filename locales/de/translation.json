@@ -1,0 +1,30 @@
+[{
+    "app": {
+        "name": "i18next"
+    },
+    "nav": {
+        "home": "home",
+        "services": "leistungen",
+        "contact": "kontakt",
+        "quotation": "angebot anfordern",
+        "base-title": " | davidhamann media | FileMaker- und Web-Entwicklung aus Hamburg"
+    },
+    "services": {
+        "link-web": {
+            "title": "Web-Entwicklung & Web-Design",
+            "text": "Wir entwickeln moderne, robuste Web-Applikationen für Unternehmen und Institutionen jeder Größe. Sprechen Sie uns an."
+        },
+        "link-filemaker": {
+            "title": "FileMaker-Entwicklung",
+            "text": "Als zertifizierter FileMaker-Entwickler und Mitglied der FileMaker Business Alliance bieten wir Ihnen individuelle Datenbanklösungen höchster Qualität."
+        }
+    },
+    "page-home": {
+        "headline": [
+            {
+                "title": "GUTEN TAG.",
+                "text": "Wir entwickeln Software, die individuell auf Sie zugeschnitten ist."
+            }
+        ]
+    }
+}]
