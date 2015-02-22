@@ -11,7 +11,7 @@ jasonsPulli = JSON.stringify(localStorage.pulloverFollower + PulliMemArray)
 };
 
 
-function parseJSONpullies (pulloverFollower){
+function parseJSONpullies (){
 
 
 partOne = "<table>"
@@ -22,7 +22,8 @@ concatedPullies = concatedPullies + partTwo;
 partThree = "</table>"
 wholeString = partOne + concatedPullies + partThree;
 
-console.log(wholeString)
+confirm(wholeString)
+
 
  
 
