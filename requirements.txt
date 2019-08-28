@@ -3,5 +3,3 @@ setuptools
 requests
 uwsgi
 django
-pillow
-boto3
