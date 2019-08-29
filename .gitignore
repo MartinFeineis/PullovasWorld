@@ -3,7 +3,7 @@ cont.id
 image.id
 *.db.sqlite3
 *.settings.py
-
+projectpullova/projectpullova/settings.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
