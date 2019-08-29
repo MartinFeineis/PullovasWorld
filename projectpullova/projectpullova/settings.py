@@ -25,7 +25,7 @@ SECRET_KEY = '5atc$^-bee-l$98#zsm4_08l!7yef!@9m59=vve=qtsx2u5w75'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["local.ghoulmanor.org"]
+ALLOWED_HOSTS = ["local.ghoulmanor.org","localhost"]
 
 
 # Application definition

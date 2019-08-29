@@ -4,7 +4,7 @@ Color_Off='\033[0m'
 
 rm app.zip
 echo -e " ${BYellow} deleted app.zip and building now ${Color_Off}"
-zip -r app.zip projectpullova/* uwsgi.ini test.py
+zip -r app.zip projectpullova/* notesapp/* uwsgi.ini test.py
 echo -e " ${BYellow} zipped everything up ${Color_Off}"
 sudo docker build --iidfile=image.id .
 cat image.id
